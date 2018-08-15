@@ -1,0 +1,986 @@
+﻿Log file open, 08/15/18 04:23:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ai_Robo_Game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-772964882) SRandInit(-772964882).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179917
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.673s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Tanner-PC (10.0.0.175:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.15-09.24.00:869][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-09.24.00:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.15-09.24.00:876][  0]LogInit: Computer: TANNER-PC
+[2018.08.15-09.24.00:876][  0]LogInit: User: Tanner
+[2018.08.15-09.24.00:876][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.15-09.24.00:876][  0]LogInit: High frequency timer resolution =2.648505 MHz
+[2018.08.15-09.24.00:877][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.15-09.24.00:877][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.15-09.24.00:877][  0]LogMemory: Process Physical Memory: 274.59 MB used, 274.59 MB peak
+[2018.08.15-09.24.00:877][  0]LogMemory: Process Virtual Memory: 266.45 MB used, 266.45 MB peak
+[2018.08.15-09.24.00:877][  0]LogMemory: Physical Memory: 14100.00 MB used,  2212.09 MB free, 16312.08 MB total
+[2018.08.15-09.24.00:877][  0]LogMemory: Virtual Memory: 634.21 MB used,  2212.09 MB free, 8388608.00 MB total
+[2018.08.15-09.24.00:899][  0]LogInit: Using OS detected language (en-US).
+[2018.08.15-09.24.00:899][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.15-09.24.00:901][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.15-09.24.01:422][  0]LogStreaming: Display: Took  0.523s to EndInitTextLocalization.
+[2018.08.15-09.24.01:422][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.08.15-09.24.01:422][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.08.15-09.24.01:422][  0]LogInit: Setting process to DPI aware
+[2018.08.15-09.24.01:425][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.08.15-09.24.01:425][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.08.15-09.24.01:425][  0]LogInit: Setting process to DPI aware
+[2018.08.15-09.24.01:446][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.15-09.24.01:446][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.15-09.24.01:637][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.15-09.24.01:671][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.08.15-09.24.01:671][  0]LogD3D11RHI:       6036/0/7900 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.15-09.24.01:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.15-09.24.01:679][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.15-09.24.01:679][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.15-09.24.01:679][  0]LogWindows: EnumDisplayDevices:
+[2018.08.15-09.24.01:679][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.08.15-09.24.01:679][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.15-09.24.01:679][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.15-09.24.01:679][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.15-09.24.01:679][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.08.15-09.24.01:680][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.08.15-09.24.01:680][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.08.15-09.24.01:680][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.15-09.24.01:680][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.08.15-09.24.01:680][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.08.15-09.24.01:680][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.08.15-09.24.01:680][  0]LogRHI: Texture pool is 4225 MB (70% of 6036 MB)
+[2018.08.15-09.24.01:695][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.15-09.24.01:695][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.15-09.24.01:695][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.15-09.24.01:711][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.15-09.24.01:712][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (E:/Unreal Projects/Ai_Robo_Game/Intermediate/Shaders/WorkingDirectory/13384/).
+[2018.08.15-09.24.01:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tanner/AppData/Local/Temp/UnrealShaderWorkingDir/715DE31B47398FC6CF51D08762AD600D/'.
+[2018.08.15-09.24.02:104][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.15-09.24.02:118][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.15-09.24.02:132][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.15-09.24.02:146][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.15-09.24.02:161][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.15-09.24.02:176][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.15-09.24.02:189][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.15-09.24.02:203][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.15-09.24.02:210][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.15-09.24.02:223][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.15-09.24.02:236][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.15-09.24.02:248][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.15-09.24.02:261][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.15-09.24.02:274][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.15-09.24.02:286][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.15-09.24.02:312][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.15-09.24.02:312][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.15-09.24.02:326][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.15-09.24.02:327][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.15-09.24.02:364][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.15-09.24.02:376][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.15-09.24.02:389][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.15-09.24.02:402][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.15-09.24.02:416][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.15-09.24.02:431][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.15-09.24.02:431][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.15-09.24.02:517][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.15-09.24.02:517][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.15-09.24.02:517][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.15-09.24.03:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: Loaded boot cache 0.12s 74MB C:/Users/Tanner/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tanner/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal Projects/Ai_Robo_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal Projects/Ai_Robo_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.15-09.24.03:490][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.15-09.24.03:512][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.15-09.24.03:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tanner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.15-09.24.03:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.15-09.24.03:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.15-09.24.03:537][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.15-09.24.03:538][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.15-09.24.03:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-09.24.03:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.15-09.24.03:689][  0]LogAssetRegistry: FAssetRegistry took 0.0246 seconds to start up
+[2018.08.15-09.24.04:060][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.15-09.24.04:225][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.15-09.24.04:227][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.15-09.24.04:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.15-09.24.04:227][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.15-09.24.04:227][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.15-09.24.04:227][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.15-09.24.04:255][  0]LogNetVersion: Ai_Robo_Game , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2716967238)
+[2018.08.15-09.24.04:802][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.053101 seconds
+[2018.08.15-09.24.04:810][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.15-09.24.04:810][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.15-09.24.04:810][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.15-09.24.07:175][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.15-09.24.07:205][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.15-09.24.07:484][  0]SourceControl: Source control is disabled
+[2018.08.15-09.24.07:484][  0]SourceControl: Source control is disabled
+[2018.08.15-09.24.07:496][  0]SourceControl: Source control is disabled
+[2018.08.15-09.24.07:507][  0]SourceControl: Source control is disabled
+[2018.08.15-09.24.07:866][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.15-09.24.08:038][  0]LogOcInput: OculusInput pre-init called
+[2018.08.15-09.24.08:137][  0]LogEngine: Initializing Engine...
+[2018.08.15-09.24.08:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.15-09.24.08:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.15-09.24.08:140][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.15-09.24.08:441][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.15-09.24.08:481][  0]LogInit: XAudio2 using 'Headphones (2- SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.15-09.24.08:494][  0]LogInit: FAudioDevice initialized.
+[2018.08.15-09.24.08:572][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Tanner/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.15-09.24.08:585][  0]LogInit: Texture streaming: Enabled
+[2018.08.15-09.24.08:600][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.15-09.24.08:610][  0]LogInit: Transaction tracking system initialized
+[2018.08.15-09.24.08:630][  0]BlueprintLog: New page: Editor Load
+[2018.08.15-09.24.08:741][  0]LocalizationService: Localization service is disabled
+[2018.08.15-09.24.08:830][  0]LogConsoleResponse: Display: 
+[2018.08.15-09.24.09:017][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Ai_Robo_Game/Content/' took 0.01s
+[2018.08.15-09.24.09:017][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.15-09.24.09:017][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.15-09.24.09:017][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.15-09.24.09:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.15-09.24.09:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.15-09.24.09:315][  0]SourceControl: Source control is disabled
+[2018.08.15-09.24.09:319][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.08.15-09.24.09:332][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.08.15-09.24.09:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.08.15-09.24.09:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.08.15-09.24.09:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.08.15-09.24.09:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.08.15-09.24.09:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.08.15-09.24.09:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.08.15-09.24.09:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.08.15-09.24.09:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.08.15-09.24.09:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.08.15-09.24.09:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.08.15-09.24.09:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.08.15-09.24.09:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.08.15-09.24.09:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.08.15-09.24.09:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.08.15-09.24.09:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.08.15-09.24.09:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.08.15-09.24.09:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.08.15-09.24.09:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Fire01.uasset"
+[2018.08.15-09.24.09:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.08.15-09.24.09:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.08.15-09.24.09:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.08.15-09.24.09:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Light01.uasset"
+[2018.08.15-09.24.09:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.08.15-09.24.09:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Light02.uasset"
+[2018.08.15-09.24.09:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.08.15-09.24.09:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.08.15-09.24.09:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.08.15-09.24.09:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.08.15-09.24.09:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.08.15-09.24.09:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.08.15-09.24.09:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.08.15-09.24.09:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.08.15-09.24.09:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.08.15-09.24.09:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Steam01.uasset"
+[2018.08.15-09.24.09:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.08.15-09.24.09:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.08.15-09.24.09:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.08.15-09.24.09:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.08.15-09.24.09:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.08.15-09.24.09:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.08.15-09.24.09:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.08.15-09.24.09:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.08.15-09.24.09:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.08.15-09.24.09:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.08.15-09.24.09:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.08.15-09.24.09:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.08.15-09.24.09:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.08.15-09.24.09:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.08.15-09.24.09:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.08.15-09.24.09:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.08.15-09.24.09:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.08.15-09.24.09:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.08.15-09.24.09:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.08.15-09.24.09:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.08.15-09.24.09:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.08.15-09.24.09:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.08.15-09.24.09:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/StarterMap.umap"
+[2018.08.15-09.24.09:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.08.15-09.24.09:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.08.15-09.24.09:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.08.15-09.24.09:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.08.15-09.24.09:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.08.15-09.24.09:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.08.15-09.24.09:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.08.15-09.24.09:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.08.15-09.24.09:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.08.15-09.24.09:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.08.15-09.24.09:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.08.15-09.24.09:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.08.15-09.24.09:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.08.15-09.24.09:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.08.15-09.24.09:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.08.15-09.24.09:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.08.15-09.24.09:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.08.15-09.24.09:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.08.15-09.24.09:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.08.15-09.24.09:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.08.15-09.24.09:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.08.15-09.24.09:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.08.15-09.24.09:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.08.15-09.24.09:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.08.15-09.24.09:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.08.15-09.24.09:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.08.15-09.24.09:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.08.15-09.24.09:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.08.15-09.24.09:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.08.15-09.24.09:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.08.15-09.24.09:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.08.15-09.24.09:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.08.15-09.24.09:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.08.15-09.24.09:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.08.15-09.24.09:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.08.15-09.24.09:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.08.15-09.24.09:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.08.15-09.24.09:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.08.15-09.24.09:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.08.15-09.24.09:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.08.15-09.24.09:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.08.15-09.24.09:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.08.15-09.24.09:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.08.15-09.24.09:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.08.15-09.24.09:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.08.15-09.24.09:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.08.15-09.24.09:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.08.15-09.24.09:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.08.15-09.24.09:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.08.15-09.24.09:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.08.15-09.24.09:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.08.15-09.24.09:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.08.15-09.24.09:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.08.15-09.24.09:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.08.15-09.24.09:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.08.15-09.24.09:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.08.15-09.24.09:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.08.15-09.24.09:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.08.15-09.24.09:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.08.15-09.24.09:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.08.15-09.24.09:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.08.15-09.24.09:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.08.15-09.24.09:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.08.15-09.24.09:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.08.15-09.24.09:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.08.15-09.24.09:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Door.uasset"
+[2018.08.15-09.24.09:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.08.15-09.24.09:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.08.15-09.24.09:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.08.15-09.24.09:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.08.15-09.24.09:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.08.15-09.24.09:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.08.15-09.24.09:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.08.15-09.24.09:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.08.15-09.24.09:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.08.15-09.24.09:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.08.15-09.24.09:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.08.15-09.24.09:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.08.15-09.24.09:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.08.15-09.24.09:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.08.15-09.24.09:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.08.15-09.24.09:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.08.15-09.24.09:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.08.15-09.24.09:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.08.15-09.24.09:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.08.15-09.24.09:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.08.15-09.24.09:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.08.15-09.24.09:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.08.15-09.24.09:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.08.15-09.24.09:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.08.15-09.24.09:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.08.15-09.24.09:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.08.15-09.24.09:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.08.15-09.24.09:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.08.15-09.24.09:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.08.15-09.24.09:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.08.15-09.24.09:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.08.15-09.24.09:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.08.15-09.24.09:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.08.15-09.24.09:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.08.15-09.24.09:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.08.15-09.24.09:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.08.15-09.24.09:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.08.15-09.24.09:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.08.15-09.24.09:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.08.15-09.24.09:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.08.15-09.24.09:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.08.15-09.24.09:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.08.15-09.24.09:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.08.15-09.24.09:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.08.15-09.24.09:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.08.15-09.24.09:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.08.15-09.24.09:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.08.15-09.24.09:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.08.15-09.24.09:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.08.15-09.24.10:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.08.15-09.24.10:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.08.15-09.24.10:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.08.15-09.24.10:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.08.15-09.24.10:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.08.15-09.24.10:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.08.15-09.24.10:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.08.15-09.24.10:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.08.15-09.24.10:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.08.15-09.24.10:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.08.15-09.24.10:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.08.15-09.24.10:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.08.15-09.24.10:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.08.15-09.24.10:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.08.15-09.24.10:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.08.15-09.24.10:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.08.15-09.24.10:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.08.15-09.24.10:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.08.15-09.24.10:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.08.15-09.24.10:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.08.15-09.24.10:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.08.15-09.24.10:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.08.15-09.24.10:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.08.15-09.24.10:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.08.15-09.24.10:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.08.15-09.24.10:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.08.15-09.24.10:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.08.15-09.24.10:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.08.15-09.24.10:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.08.15-09.24.10:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.08.15-09.24.10:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.08.15-09.24.10:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.08.15-09.24.10:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.08.15-09.24.10:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.08.15-09.24.10:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.08.15-09.24.10:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.08.15-09.24.10:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.08.15-09.24.10:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.08.15-09.24.10:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.08.15-09.24.10:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.08.15-09.24.10:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.08.15-09.24.10:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.08.15-09.24.10:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.08.15-09.24.10:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.08.15-09.24.10:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.08.15-09.24.10:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.08.15-09.24.10:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.08.15-09.24.10:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.08.15-09.24.10:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.08.15-09.24.10:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.08.15-09.24.10:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.08.15-09.24.10:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.08.15-09.24.10:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.08.15-09.24.10:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.08.15-09.24.10:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.08.15-09.24.10:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.08.15-09.24.10:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.08.15-09.24.10:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.08.15-09.24.10:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.08.15-09.24.10:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.08.15-09.24.10:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.08.15-09.24.10:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.08.15-09.24.11:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.08.15-09.24.11:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.08.15-09.24.11:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.08.15-09.24.11:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.08.15-09.24.11:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.08.15-09.24.11:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.08.15-09.24.11:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.08.15-09.24.11:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.08.15-09.24.11:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.08.15-09.24.11:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.08.15-09.24.11:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.08.15-09.24.11:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.08.15-09.24.11:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.08.15-09.24.11:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.08.15-09.24.11:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.08.15-09.24.11:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.08.15-09.24.11:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.08.15-09.24.11:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.08.15-09.24.11:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.08.15-09.24.11:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.08.15-09.24.11:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.08.15-09.24.11:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.08.15-09.24.11:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.08.15-09.24.11:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.08.15-09.24.11:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.08.15-09.24.11:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.08.15-09.24.11:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.08.15-09.24.11:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.08.15-09.24.11:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.08.15-09.24.11:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.08.15-09.24.11:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.08.15-09.24.11:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.08.15-09.24.11:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.08.15-09.24.11:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.08.15-09.24.11:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.08.15-09.24.11:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.08.15-09.24.11:780][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.08.15-09.24.11:873][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.08.15-09.24.11:938][  0]LogSavePackage: Save=11.25ms
+[2018.08.15-09.24.11:938][  0]LogSavePackage: Moving 'E:/Unreal Projects/Ai_Robo_Game/Saved/Floor_400x400B899AF0C4C856FA8CD51C3801BFFD3EB.tmp' to 'E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.08.15-09.24.11:939][  0]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.08.15-09.24.11:939][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.08.15-09.24.11:940][  0]Cmd: MAP LOAD FILE="E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.15-09.24.11:940][  0]LightingResults: New page: Lighting Build
+[2018.08.15-09.24.11:943][  0]MapCheck: New page: Map Check
+[2018.08.15-09.24.11:943][  0]LightingResults: New page: Lighting Build
+[2018.08.15-09.24.12:326][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.15-09.24.12:344][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.15-09.24.12:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.15-09.24.12:397][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.405ms to complete.
+[2018.08.15-09.24.12:397][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.457
+[2018.08.15-09.24.12:542][  0]LogCollectionManager: Loaded 0 collections in 0.001329 seconds
+[2018.08.15-09.24.12:647][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Ai_Robo_Game/Saved/Collections/' took 0.01s
+[2018.08.15-09.24.12:647][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Ai_Robo_Game/Content/Developers/Tanner/Collections/' took 0.01s
+[2018.08.15-09.24.12:647][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Ai_Robo_Game/Content/Collections/' took 0.00s
+[2018.08.15-09.24.12:647][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.15-09.24.12:658][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2452 classes and 558 folders.
+[2018.08.15-09.24.12:668][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.15-09.24.12:755][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.15-09.24.12:767][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.15-09.24.12:909][  0]LogSlate: Took 0.000919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.15-09.24.12:912][  0]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.15-09.24.12:919][  0]LogSlate: Took 0.001243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.15-09.24.12:971][  0]LogRenderer: Reallocating scene render targets to support 1080x636 Format 10 NumSamples 1 (Frame:1).
+[2018.08.15-09.24.13:041][  0]LogSlate: Took 0.000836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.15-09.24.13:190][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.15-09.24.13:190][  0]LogLoad: (Engine Initialization) Total time: 13.93 seconds
+[2018.08.15-09.24.13:190][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.15-09.24.14:273][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.15-09.24.14:388][  1]LogAssetRegistry: Asset discovery search completed in 10.7195 seconds
+[2018.08.15-09.24.14:391][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.15-09.24.14:392][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000143 seconds (updated 0 objects)
+[2018.08.15-09.24.18:816][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.15-09.24.18:922][273]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.15-09.24.19:062][273]LogSavePackage: Save=97.79ms
+[2018.08.15-09.24.19:062][273]LogSavePackage: Moving 'E:/Unreal Projects/Ai_Robo_Game/Saved/Minimal_DefaultD845583E41E641957304A9B78F1BF029.tmp' to 'E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.08.15-09.24.19:063][273]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.08.15-09.24.19:089][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2018.08.15-09.24.19:156][273]LogSavePackage: Save=51.43ms
+[2018.08.15-09.24.19:156][273]LogSavePackage: Moving 'E:/Unreal Projects/Ai_Robo_Game/Saved/Minimal_Default_BuiltDataD9656AA643A3B6B5D40446998954ABED.tmp' to 'E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.08.15-09.24.19:157][273]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Ai_Robo_Game/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.08.15-09.24.20:300][349]LogSlate: Window 'Ai_Robo_Game - Unreal Editor' being destroyed
+[2018.08.15-09.24.20:474][350]Cmd: QUIT_EDITOR
+[2018.08.15-09.24.20:504][350]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.15-09.24.20:504][350]LogExit: Preparing to exit.
+[2018.08.15-09.24.21:366][350]LogExit: Editor shut down
+[2018.08.15-09.24.21:368][350]LogExit: Transaction tracking system shut down
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Ai_Robo_Game/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.15-09.24.21:523][350]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.15-09.24.21:683][350]LogExit: Object subsystem successfully closed.
+[2018.08.15-09.24.21:882][350]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.15-09.24.21:887][350]LogD3D11RHI: Shutdown
+[2018.08.15-09.24.21:887][350]LogD3D11RHI: CleanupD3DDevice
+[2018.08.15-09.24.21:889][350]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.15-09.24.21:924][350]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.08.15-09.24.21:924][350]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.08.15-09.24.21:924][350]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.08.15-09.24.21:925][350]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.08.15-09.24.21:926][350]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.08.15-09.24.21:926][350]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.08.15-09.24.21:926][350]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.08.15-09.24.21:926][350]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Ai_Robo_Game/Content/Collections/' was aborted.
+[2018.08.15-09.24.21:926][350]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Ai_Robo_Game/Content/Developers/Tanner/Collections/' was aborted.
+[2018.08.15-09.24.21:926][350]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Ai_Robo_Game/Saved/Collections/' was aborted.
+[2018.08.15-09.24.21:926][350]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.08.15-09.24.21:927][350]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.08.15-09.24.21:928][350]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.08.15-09.24.21:928][350]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.08.15-09.24.21:929][350]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.08.15-09.24.21:929][350]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.08.15-09.24.21:932][350]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.08.15-09.24.21:933][350]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.08.15-09.24.21:934][350]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.08.15-09.24.21:934][350]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.08.15-09.24.21:934][350]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.08.15-09.24.21:934][350]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.08.15-09.24.22:783][350]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.08.15-09.24.22:783][350]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.08.15-09.24.22:784][350]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.08.15-09.24.22:785][350]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.08.15-09.24.22:835][350]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.08.15-09.24.22:835][350]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.08.15-09.24.22:835][350]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.08.15-09.24.22:835][350]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.08.15-09.24.22:835][350]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.08.15-09.24.22:836][350]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.08.15-09.24.22:837][350]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.08.15-09.24.22:837][350]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.08.15-09.24.22:837][350]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.08.15-09.24.22:837][350]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.08.15-09.24.22:838][350]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.08.15-09.24.22:840][350]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.08.15-09.24.22:840][350]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.08.15-09.24.22:840][350]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.08.15-09.24.22:840][350]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.08.15-09.24.22:841][350]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.08.15-09.24.22:841][350]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.08.15-09.24.22:841][350]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.08.15-09.24.22:841][350]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.08.15-09.24.22:841][350]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.08.15-09.24.22:842][350]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.08.15-09.24.23:086][350]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.08.15-09.24.23:086][350]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.08.15-09.24.23:086][350]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.08.15-09.24.23:086][350]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.08.15-09.24.23:088][350]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.08.15-09.24.23:089][350]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.08.15-09.24.23:089][350]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.08.15-09.24.23:089][350]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.08.15-09.24.23:092][350]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.08.15-09.24.23:093][350]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.08.15-09.24.23:094][350]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.08.15-09.24.23:195][350]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.08.15-09.24.23:295][350]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.08.15-09.24.23:296][350]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.08.15-09.24.23:296][350]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.08.15-09.24.23:296][350]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.08.15-09.24.23:296][350]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.08.15-09.24.23:296][350]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.08.15-09.24.23:297][350]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.08.15-09.24.23:297][350]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.08.15-09.24.23:297][350]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.08.15-09.24.23:298][350]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.08.15-09.24.23:895][350]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.08.15-09.24.23:895][350]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.08.15-09.24.23:895][350]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.08.15-09.24.23:896][350]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.08.15-09.24.23:901][350]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.08.15-09.24.23:903][350]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.08.15-09.24.23:904][350]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.08.15-09.24.23:904][350]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.08.15-09.24.23:907][350]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.08.15-09.24.23:907][350]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.08.15-09.24.23:908][350]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.08.15-09.24.23:908][350]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.08.15-09.24.23:909][350]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.08.15-09.24.23:911][350]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.08.15-09.24.23:912][350]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.08.15-09.24.23:912][350]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.08.15-09.24.23:914][350]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.08.15-09.24.23:914][350]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.08.15-09.24.23:916][350]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.08.15-09.24.23:917][350]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.08.15-09.24.23:917][350]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.08.15-09.24.23:917][350]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.08.15-09.24.23:917][350]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.08.15-09.24.23:918][350]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.08.15-09.24.23:918][350]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.08.15-09.24.23:919][350]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.08.15-09.24.23:919][350]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.08.15-09.24.24:071][350]LogDerivedDataCache: Shutdown
+[2018.08.15-09.24.24:072][350]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.08.15-09.24.24:072][350]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.08.15-09.24.24:072][350]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.08.15-09.24.24:072][350]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.08.15-09.24.24:072][350]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.08.15-09.24.24:073][350]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.08.15-09.24.24:073][350]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.08.15-09.24.24:074][350]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.08.15-09.24.24:074][350]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.08.15-09.24.24:074][350]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.08.15-09.24.24:074][350]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.08.15-09.24.24:075][350]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.08.15-09.24.24:076][350]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.08.15-09.24.24:076][350]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.08.15-09.24.24:076][350]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.15-09.24.24:076][350]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.15-09.24.24:076][350]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.15-09.24.24:077][350]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.15-09.24.24:078][350]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.15-09.24.24:079][350]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.15-09.24.24:079][350]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CA5A8D-4BEB-8AEC-D2A8-BC8BD8B19304%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=0fbf42da45d44436b7b2ef8116cd8b08%7Ccc06558a2023481aa1147a04b84ae9a3%7C93f3269c-7001-46db-944d-8eea0328620f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.15-09.24.24:098][350]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.15-09.24.24:099][350]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.15-09.24.24:100][350]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.15-09.24.24:101][350]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.15-09.24.24:102][350]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.15-09.24.24:104][350]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.15-09.24.24:104][350]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.15-09.24.24:104][350]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.15-09.24.24:105][350]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.15-09.24.24:106][350]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.15-09.24.24:107][350]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.15-09.24.24:107][350]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.15-09.24.24:111][350]LogExit: Exiting.
+[2018.08.15-09.24.24:117][350]Log file closed, 08/15/18 04:24:24
